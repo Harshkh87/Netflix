@@ -2,7 +2,7 @@
 This is the core code from scratch to clone the landing page of Netflix using HTML, CSS and JavaScript.
 
 # Link!
-https://64bceb0a4bb2047e27a940bf--genuine-snickerdoodle-60c667.netlify.app/
+https://genuine-snickerdoodle-60c667.netlify.app/
 
 # Screenshots!
 showcase!
